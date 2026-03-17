@@ -183,12 +183,12 @@
         {
           "id": "sub_022",
           "title": "🔍 Search: Filter tasks by text",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_023",
           "title": "📁 Project filter: Click project buttons to filter",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_024",
