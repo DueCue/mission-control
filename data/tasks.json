@@ -39,9 +39,29 @@
       "sortOrder": 2
     },
     {
+      "id": "task_yt_nightmare_christmas",
+      "title": "📺 Nightmare Before Christmas AS A GAME",
+      "description": "Game concept: \"Holiday Heist: The Nightmare Before Everything\"\n\nJack Skellington steals holiday figures (Santa, Easter Bunny, Cupid, etc.)\n\n**Status:** Pre-Production",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["game-concept", "nightmare-before-christmas"],
+      "subtasks": [
+        { "id": "sub_yt_nc_001", "title": "Write script", "done": false },
+        { "id": "sub_yt_nc_002", "title": "Record voiceover", "done": false },
+        { "id": "sub_yt_nc_003", "title": "Gather/create visuals", "done": false },
+        { "id": "sub_yt_nc_004", "title": "Edit video", "done": false },
+        { "id": "sub_yt_nc_005", "title": "Design thumbnail", "done": false },
+        { "id": "sub_yt_nc_006", "title": "Upload and publish", "done": false }
+      ],
+      "priority": "medium",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 3
+    },
+    {
       "id": "task_yt_adventure_time",
-      "title": "📺 Adventure Time Game Concept",
-      "description": "Video concept for an Adventure Time game.\n\n**Status:** Script in progress",
+      "title": "📺 Adventure Time - Pancake Quest",
+      "description": "Game concept: \"Finn and Jake's Pancake Quest\"\n\nExplore the Tree Fort, collect ingredients, find treasures.\n\n**Status:** Asset Creation",
       "status": "backlog",
       "project": "youtube",
       "tags": ["game-concept", "adventure-time"],
@@ -56,7 +76,7 @@
       "priority": "medium",
       "comments": [],
       "createdAt": "2026-03-17T15:20:00Z",
-      "sortOrder": 3
+      "sortOrder": 4
     },
     {
       "id": "task_yt_launch_coverage",
@@ -75,7 +95,7 @@
       "priority": "high",
       "comments": [],
       "createdAt": "2026-03-17T15:20:00Z",
-      "sortOrder": 4
+      "sortOrder": 5
     },
     {
       "id": "task_yt_postmortem",
@@ -93,7 +113,262 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-03-17T15:20:00Z",
-      "sortOrder": 5
+      "sortOrder": 6
+    },
+    {
+      "id": "task_yt_idea_2d_to_3d",
+      "title": "📺 Reimagining Classic 2D Games in 3D",
+      "description": "Video concept: Take classic 2D games and reimagine them as 3D experiences.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "game-concept"],
+      "subtasks": [
+        { "id": "sub_yt_2d_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_2d_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_2d_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 7
+    },
+    {
+      "id": "task_yt_idea_retro_demakes",
+      "title": "📺 Retro Game Demakes in Godot",
+      "description": "Video concept: Take modern games and recreate them with retro graphics.\n\nExamples: Elden Ring as SNES RPG, Cyberpunk 2077 as PS1 game.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "godot", "retro"],
+      "subtasks": [
+        { "id": "sub_yt_rd_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_rd_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_rd_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 8
+    },
+    {
+      "id": "task_yt_idea_game_mashups",
+      "title": "📺 Godot Game Mashups",
+      "description": "Video concept: Combine two different games into unique hybrids.\n\nExamples: Tetris Battle Royale, Animal Crossing Souls.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "godot", "mashup"],
+      "subtasks": [
+        { "id": "sub_yt_gm_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_gm_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_gm_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 9
+    },
+    {
+      "id": "task_yt_idea_toystory",
+      "title": "📺 Toy Story - Buzz Finds Andy",
+      "description": "Video concept: Buzz searches for toys with \"Andy\" written on them.\n\nSet in Andy's room. Unlock abilities: Glide (wings), Laser (flashlight).\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "toystory", "pixar"],
+      "subtasks": [
+        { "id": "sub_yt_ts_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_ts_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_ts_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 10
+    },
+    {
+      "id": "task_yt_idea_simpsons",
+      "title": "📺 The Simpsons Game Concept",
+      "description": "Video concept: Game based on The Simpsons.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "simpsons"],
+      "subtasks": [
+        { "id": "sub_yt_si_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_si_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_si_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 11
+    },
+    {
+      "id": "task_yt_idea_familyguy",
+      "title": "📺 Family Guy Game Concept",
+      "description": "Video concept: Game based on Family Guy.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "family-guy"],
+      "subtasks": [
+        { "id": "sub_yt_fg_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_fg_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_fg_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 12
+    },
+    {
+      "id": "task_yt_idea_mario64",
+      "title": "📺 Mario 64 Game Concept",
+      "description": "Video concept: Reimagining Mario 64.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "mario", "nintendo"],
+      "subtasks": [
+        { "id": "sub_yt_m64_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_m64_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_m64_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 13
+    },
+    {
+      "id": "task_yt_idea_spongebob",
+      "title": "📺 SpongeBob Game Concept",
+      "description": "Video concept: Game based on SpongeBob.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "spongebob"],
+      "subtasks": [
+        { "id": "sub_yt_sb_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_sb_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_sb_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 14
+    },
+    {
+      "id": "task_yt_idea_remake_series",
+      "title": "📺 Remaking... As Series",
+      "description": "Video concept series:\n- Remaking ... as STYLIZED\n- Remaking ... as REALISTIC\n- Remaking ... as ANIME\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "remake", "series"],
+      "subtasks": [
+        { "id": "sub_yt_rm_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_rm_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_rm_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 15
+    },
+    {
+      "id": "task_yt_idea_spiderman",
+      "title": "📺 Spider-Man Game Concept",
+      "description": "Video concept: Game based on Spider-Man.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "spiderman", "marvel"],
+      "subtasks": [
+        { "id": "sub_yt_sm_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_sm_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_sm_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 16
+    },
+    {
+      "id": "task_yt_idea_futurama",
+      "title": "📺 Futurama Game Concept",
+      "description": "Video concept: Game based on Futurama.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "futurama"],
+      "subtasks": [
+        { "id": "sub_yt_fu_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_fu_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_fu_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 17
+    },
+    {
+      "id": "task_yt_idea_sonic",
+      "title": "📺 Sonic Game Concept",
+      "description": "Video concept: Game based on Sonic.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "sonic", "sega"],
+      "subtasks": [
+        { "id": "sub_yt_so_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_so_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_so_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 18
+    },
+    {
+      "id": "task_yt_idea_avatar",
+      "title": "📺 Avatar Game Concept",
+      "description": "Video concept: Game based on Avatar: The Last Airbender.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "avatar"],
+      "subtasks": [
+        { "id": "sub_yt_av_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_av_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_av_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 19
+    },
+    {
+      "id": "task_yt_idea_scoobydoo",
+      "title": "📺 Scooby Doo as Horror Game",
+      "description": "Video concept: Scooby Doo reimagined as a horror game.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "scooby-doo", "horror"],
+      "subtasks": [
+        { "id": "sub_yt_sd_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_sd_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_sd_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 20
+    },
+    {
+      "id": "task_yt_idea_zelda1_realistic",
+      "title": "📺 Remaking Zelda 1 as Realistic 3D",
+      "description": "Video concept: Take the original Legend of Zelda and reimagine it as a realistic 3D game.\n\n**Status:** Idea",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["idea", "zelda", "nintendo", "realistic"],
+      "subtasks": [
+        { "id": "sub_yt_z1_001", "title": "Develop concept", "done": false },
+        { "id": "sub_yt_z1_002", "title": "Write script", "done": false },
+        { "id": "sub_yt_z1_003", "title": "Produce video", "done": false }
+      ],
+      "priority": "low",
+      "comments": [],
+      "createdAt": "2026-03-17T15:30:00Z",
+      "sortOrder": 21
     },
     {
       "id": "task_greedsfolly_launch",
@@ -114,7 +389,7 @@
       "priority": "high",
       "comments": [],
       "createdAt": "2026-03-17T15:15:00Z",
-      "sortOrder": 6
+      "sortOrder": 22
     },
     {
       "id": "task_greedsfolly_dlc",
@@ -132,7 +407,7 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-03-17T15:15:00Z",
-      "sortOrder": 7
+      "sortOrder": 23
     },
     {
       "id": "task_app_detaildetect",
@@ -149,7 +424,7 @@
       "priority": "medium",
       "comments": [],
       "createdAt": "2026-03-17T15:15:00Z",
-      "sortOrder": 8
+      "sortOrder": 24
     },
     {
       "id": "task_app_workoutwaves",
@@ -168,7 +443,7 @@
       "priority": "high",
       "comments": [],
       "createdAt": "2026-03-17T15:25:00Z",
-      "sortOrder": 9
+      "sortOrder": 25
     },
     {
       "id": "task_app_chattychat",
@@ -187,7 +462,7 @@
       "priority": "medium",
       "comments": [],
       "createdAt": "2026-03-17T15:25:00Z",
-      "sortOrder": 10
+      "sortOrder": 26
     },
     {
       "id": "task_app_mnemonicsmaster",
@@ -206,7 +481,7 @@
       "priority": "medium",
       "comments": [],
       "createdAt": "2026-03-17T15:25:00Z",
-      "sortOrder": 11
+      "sortOrder": 27
     },
     {
       "id": "task_app_emergencyeducation",
@@ -225,7 +500,7 @@
       "priority": "medium",
       "comments": [],
       "createdAt": "2026-03-17T15:25:00Z",
-      "sortOrder": 12
+      "sortOrder": 28
     },
     {
       "id": "task_app_vitalsvault",
@@ -244,7 +519,7 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-03-17T15:25:00Z",
-      "sortOrder": 13
+      "sortOrder": 29
     },
     {
       "id": "task_app_amplifiedarithmetic",
@@ -263,7 +538,7 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-03-17T15:25:00Z",
-      "sortOrder": 14
+      "sortOrder": 30
     },
     {
       "id": "task_deduction_book",
@@ -281,7 +556,7 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-03-17T15:15:00Z",
-      "sortOrder": 15
+      "sortOrder": 31
     },
     {
       "id": "task_magicalworld",
@@ -297,7 +572,7 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-03-17T15:15:00Z",
-      "sortOrder": 16
+      "sortOrder": 32
     }
   ],
   "projects": [
@@ -336,9 +611,9 @@
     {
       "type": "created",
       "actor": "Aurora",
-      "task": "Split Apps into 7 individual app tasks",
-      "time": "2026-03-17T15:25:00Z"
+      "task": "Added ALL YouTube video ideas from Idea Bank",
+      "time": "2026-03-17T15:35:00Z"
     }
   ],
-  "lastUpdated": "2026-03-17T15:25:00Z"
+  "lastUpdated": "2026-03-17T15:35:00Z"
 }
