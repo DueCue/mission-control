@@ -182,7 +182,7 @@
       "id": "task_yt_launch_coverage",
       "title": "📺 Launch Day Short-Form Content (Greeds Folly)",
       "description": "Short-form content for launch day.\n\nTikTok, YouTube Shorts, Instagram Reels.\n\n**Status:** Planned",
-      "status": "backlog",
+      "status": "in_progress",
       "project": "guides",
       "tags": [
         "short-form",
@@ -218,7 +218,7 @@
       "priority": "high",
       "comments": [],
       "createdAt": "2026-03-17T15:20:00Z",
-      "sortOrder": 5
+      "sortOrder": 1
     },
     {
       "id": "task_yt_postmortem",
@@ -681,7 +681,7 @@
       "priority": "high",
       "comments": [],
       "createdAt": "2026-03-17T15:15:00Z",
-      "sortOrder": 100
+      "sortOrder": 0
     },
     {
       "id": "task_greedsfolly_dlc",
@@ -1105,11 +1105,19 @@
   ],
   "activities": [
     {
+      "type": "moved",
+      "actor": "DueCue",
+      "task": "📺 Launch Day Short-Form Content (Greeds Folly)",
+      "from": "backlog",
+      "to": "in_progress",
+      "time": "just now"
+    },
+    {
       "type": "updated",
       "actor": "Aurora",
       "task": "Removed generic YouTube ideas - kept only concrete IPs",
       "time": "2026-03-17T16:48:00Z"
     }
   ],
-  "lastUpdated": "2026-03-17T17:35:12.726Z"
+  "lastUpdated": "2026-03-17T17:35:37.968Z"
 }
