@@ -1,0 +1,175 @@
+{
+  "tasks": [
+    {
+      "id": "template_youtube_video",
+      "title": "📺 YouTube Video Production",
+      "description": "Standard workflow for producing a YouTube video.\n\nUse this template for any new video project.",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["template", "video"],
+      "isTemplate": true,
+      "baseStatus": "backlog",
+      "executionCount": 0,
+      "subtasks": [
+        { "id": "sub_t1", "title": "Write script", "done": false },
+        { "id": "sub_t2", "title": "Record voiceover", "done": false },
+        { "id": "sub_t3", "title": "Gather/create visuals", "done": false },
+        { "id": "sub_t4", "title": "Edit video", "done": false },
+        { "id": "sub_t5", "title": "Design thumbnail", "done": false },
+        { "id": "sub_t6", "title": "Write description & tags", "done": false },
+        { "id": "sub_t7", "title": "Upload and schedule", "done": false },
+        { "id": "sub_t8", "title": "Promote on social media", "done": false }
+      ],
+      "priority": "medium",
+      "comments": [],
+      "createdAt": "2026-03-17T16:40:00Z",
+      "sortOrder": 0
+    },
+    {
+      "id": "template_shortform",
+      "title": "📱 Short-Form Content",
+      "description": "Workflow for TikTok, YouTube Shorts, Instagram Reels.\n\nVertical video content for social media.",
+      "status": "backlog",
+      "project": "youtube",
+      "tags": ["template", "short-form"],
+      "isTemplate": true,
+      "baseStatus": "backlog",
+      "executionCount": 0,
+      "subtasks": [
+        { "id": "sub_sf1", "title": "Record vertical footage (9:16)", "done": false },
+        { "id": "sub_sf2", "title": "Edit TikTok version", "done": false },
+        { "id": "sub_sf3", "title": "Edit YouTube Shorts version", "done": false },
+        { "id": "sub_sf4", "title": "Edit Instagram Reels version", "done": false },
+        { "id": "sub_sf5", "title": "Post on all platforms", "done": false },
+        { "id": "sub_sf6", "title": "Engage with comments", "done": false }
+      ],
+      "priority": "medium",
+      "comments": [],
+      "createdAt": "2026-03-17T16:40:00Z",
+      "sortOrder": 1
+    },
+    {
+      "id": "template_game_launch",
+      "title": "🎮 Game Launch",
+      "description": "Full launch checklist for a new game release.\n\nUse this when preparing to launch a game on Steam or other platforms.",
+      "status": "backlog",
+      "project": "games",
+      "tags": ["template", "launch"],
+      "isTemplate": true,
+      "baseStatus": "backlog",
+      "executionCount": 0,
+      "subtasks": [
+        { "id": "sub_gl1", "title": "Take 8-10 screenshots (1920x1080)", "done": false },
+        { "id": "sub_gl2", "title": "Create/update Steam capsule art", "done": false },
+        { "id": "sub_gl3", "title": "Upload trailer to YouTube", "done": false },
+        { "id": "sub_gl4", "title": "Prepare press kit (PDF + screenshots)", "done": false },
+        { "id": "sub_gl5", "title": "Upload press kit to Google Drive", "done": false },
+        { "id": "sub_gl6", "title": "Create press/streamer email list", "done": false },
+        { "id": "sub_gl7", "title": "Send press emails", "done": false },
+        { "id": "sub_gl8", "title": "Send streamer keys", "done": false },
+        { "id": "sub_gl9", "title": "Create short-form content", "done": false },
+        { "id": "sub_gl10", "title": "Schedule social media posts", "done": false },
+        { "id": "sub_gl11", "title": "Launch day - monitor and engage", "done": false }
+      ],
+      "priority": "high",
+      "comments": [],
+      "createdAt": "2026-03-17T16:40:00Z",
+      "sortOrder": 2
+    },
+    {
+      "id": "template_app_release",
+      "title": "📱 App Release",
+      "description": "Workflow for releasing an app to App Store and Google Play.\n\nUse this when an app is ready to ship.",
+      "status": "backlog",
+      "project": "apps",
+      "tags": ["template", "release"],
+      "isTemplate": true,
+      "baseStatus": "backlog",
+      "executionCount": 0,
+      "subtasks": [
+        { "id": "sub_ar1", "title": "Final testing on devices", "done": false },
+        { "id": "sub_ar2", "title": "Prepare screenshots for stores", "done": false },
+        { "id": "sub_ar3", "title": "Write app description", "done": false },
+        { "id": "sub_ar4", "title": "Create app preview video", "done": false },
+        { "id": "sub_ar5", "title": "Submit to App Store", "done": false },
+        { "id": "sub_ar6", "title": "Submit to Google Play", "done": false },
+        { "id": "sub_ar7", "title": "Prepare launch social posts", "done": false },
+        { "id": "sub_ar8", "title": "Monitor reviews and respond", "done": false }
+      ],
+      "priority": "medium",
+      "comments": [],
+      "createdAt": "2026-03-17T16:40:00Z",
+      "sortOrder": 3
+    },
+    {
+      "id": "template_weekly_review",
+      "title": "📅 Weekly Review",
+      "description": "Weekly planning and review session.\n\nReflect on progress, plan next week, update priorities.",
+      "status": "backlog",
+      "project": "system",
+      "tags": ["template", "review", "weekly"],
+      "isTemplate": true,
+      "baseStatus": "backlog",
+      "executionCount": 0,
+      "subtasks": [
+        { "id": "sub_wr1", "title": "Review completed tasks this week", "done": false },
+        { "id": "sub_wr2", "title": "Review in-progress tasks", "done": false },
+        { "id": "sub_wr3", "title": "Identify blockers", "done": false },
+        { "id": "sub_wr4", "title": "Plan priorities for next week", "done": false },
+        { "id": "sub_wr5", "title": "Update task statuses", "done": false },
+        { "id": "sub_wr6", "title": "Archive completed tasks", "done": false }
+      ],
+      "priority": "medium",
+      "comments": [],
+      "createdAt": "2026-03-17T16:40:00Z",
+      "sortOrder": 4
+    }
+  ],
+  "projects": [
+    {
+      "id": "system",
+      "name": "System",
+      "color": "#8b5cf6",
+      "icon": "⚙️"
+    },
+    {
+      "id": "guides",
+      "name": "Guides",
+      "color": "#10b981",
+      "icon": "📚"
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "color": "#8b5cf6",
+      "icon": "🎮"
+    },
+    {
+      "id": "apps",
+      "name": "Apps",
+      "color": "#3b82f6",
+      "icon": "📱"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "color": "#ef4444",
+      "icon": "📺"
+    },
+    {
+      "id": "books",
+      "name": "Books",
+      "color": "#f59e0b",
+      "icon": "📚"
+    }
+  ],
+  "activities": [
+    {
+      "type": "created",
+      "actor": "Aurora",
+      "task": "Created 5 templates: YouTube Video, Short-Form Content, Game Launch, App Release, Weekly Review",
+      "time": "2026-03-17T16:40:00Z"
+    }
+  ],
+  "lastUpdated": "2026-03-17T16:40:00Z"
+}
