@@ -83,7 +83,7 @@
         {
           "id": "sub_002",
           "title": "Columns: Permanent (recurring) → Backlog → In Progress → Review → Done",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_003",
