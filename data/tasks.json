@@ -4,23 +4,59 @@
       "id": "guide_onboarding",
       "title": "🚀 Onboarding Guide — Set Up Mission Control",
       "description": "Setup is complete!",
-      "status": "permanent",
+      "status": "done",
       "project": "guides",
-      "tags": ["guide", "setup"],
+      "tags": [
+        "guide",
+        "setup"
+      ],
       "subtasks": [
-        { "id": "sub_001", "title": "1. Enable GitHub Pages", "done": true },
-        { "id": "sub_002", "title": "2. Create GitHub Token", "done": true },
-        { "id": "sub_003", "title": "3. Connect Dashboard", "done": true },
-        { "id": "sub_004", "title": "4. Install Tailscale", "done": true },
-        { "id": "sub_005", "title": "5. Enable Funnel", "done": true },
-        { "id": "sub_006", "title": "6. Generate Webhook Token", "done": true },
-        { "id": "sub_007", "title": "7. Add GitHub Webhook", "done": true },
-        { "id": "sub_008", "title": "8. Test complete", "done": true }
+        {
+          "id": "sub_001",
+          "title": "1. Enable GitHub Pages",
+          "done": true
+        },
+        {
+          "id": "sub_002",
+          "title": "2. Create GitHub Token",
+          "done": true
+        },
+        {
+          "id": "sub_003",
+          "title": "3. Connect Dashboard",
+          "done": true
+        },
+        {
+          "id": "sub_004",
+          "title": "4. Install Tailscale",
+          "done": true
+        },
+        {
+          "id": "sub_005",
+          "title": "5. Enable Funnel",
+          "done": true
+        },
+        {
+          "id": "sub_006",
+          "title": "6. Generate Webhook Token",
+          "done": true
+        },
+        {
+          "id": "sub_007",
+          "title": "7. Add GitHub Webhook",
+          "done": true
+        },
+        {
+          "id": "sub_008",
+          "title": "8. Test complete",
+          "done": true
+        }
       ],
       "priority": "high",
       "comments": [],
       "createdAt": "2026-01-01T00:00:00Z",
-      "sortOrder": 0
+      "sortOrder": 0,
+      "completedAt": "2026-03-17T15:19:39.491Z"
     },
     {
       "id": "task_greedsfolly_launch",
@@ -28,15 +64,46 @@
       "description": "Game is COMPLETE and ready to launch!\n\n**Steam:** https://store.steampowered.com/app/4175750/Greeds_Folly/",
       "status": "in_progress",
       "project": "games",
-      "tags": ["launch", "priority"],
+      "tags": [
+        "launch",
+        "priority"
+      ],
       "subtasks": [
-        { "id": "sub_gf_001", "title": "Send remaining press emails", "done": false },
-        { "id": "sub_gf_002", "title": "Send remaining streamer emails", "done": false },
-        { "id": "sub_gf_003", "title": "Upload press kit to Google Drive", "done": false },
-        { "id": "sub_gf_004", "title": "Take 8 screenshots for Steam", "done": false },
-        { "id": "sub_gf_005", "title": "Record vertical gameplay footage", "done": false },
-        { "id": "sub_gf_006", "title": "Edit short-form videos", "done": false },
-        { "id": "sub_gf_007", "title": "Launch day - monitor and engage", "done": false }
+        {
+          "id": "sub_gf_001",
+          "title": "Send remaining press emails",
+          "done": false
+        },
+        {
+          "id": "sub_gf_002",
+          "title": "Send remaining streamer emails",
+          "done": false
+        },
+        {
+          "id": "sub_gf_003",
+          "title": "Upload press kit to Google Drive",
+          "done": false
+        },
+        {
+          "id": "sub_gf_004",
+          "title": "Take 8 screenshots for Steam",
+          "done": false
+        },
+        {
+          "id": "sub_gf_005",
+          "title": "Record vertical gameplay footage",
+          "done": false
+        },
+        {
+          "id": "sub_gf_006",
+          "title": "Edit short-form videos",
+          "done": false
+        },
+        {
+          "id": "sub_gf_007",
+          "title": "Launch day - monitor and engage",
+          "done": false
+        }
       ],
       "priority": "high",
       "comments": [],
@@ -49,12 +116,31 @@
       "description": "Planned DLC expansion for Greed's Folly.\n\nNot started yet - focus on launch first!",
       "status": "backlog",
       "project": "games",
-      "tags": ["dlc", "future"],
+      "tags": [
+        "dlc",
+        "future"
+      ],
       "subtasks": [
-        { "id": "sub_dlc_001", "title": "Plan DLC content", "done": false },
-        { "id": "sub_dlc_002", "title": "Create new assets", "done": false },
-        { "id": "sub_dlc_003", "title": "Develop and test", "done": false },
-        { "id": "sub_dlc_004", "title": "Release DLC", "done": false }
+        {
+          "id": "sub_dlc_001",
+          "title": "Plan DLC content",
+          "done": false
+        },
+        {
+          "id": "sub_dlc_002",
+          "title": "Create new assets",
+          "done": false
+        },
+        {
+          "id": "sub_dlc_003",
+          "title": "Develop and test",
+          "done": false
+        },
+        {
+          "id": "sub_dlc_004",
+          "title": "Release DLC",
+          "done": false
+        }
       ],
       "priority": "low",
       "comments": [],
@@ -67,11 +153,26 @@
       "description": "Deduction training app - COMPLETE!\n\nReady to submit to app stores once Apple Developer enrollment is done.",
       "status": "backlog",
       "project": "apps",
-      "tags": ["complete", "ready-to-ship"],
+      "tags": [
+        "complete",
+        "ready-to-ship"
+      ],
       "subtasks": [
-        { "id": "sub_dd_001", "title": "Enroll in Apple Developer Program", "done": false },
-        { "id": "sub_dd_002", "title": "Submit to App Store", "done": false },
-        { "id": "sub_dd_003", "title": "Submit to Google Play", "done": false }
+        {
+          "id": "sub_dd_001",
+          "title": "Enroll in Apple Developer Program",
+          "done": false
+        },
+        {
+          "id": "sub_dd_002",
+          "title": "Submit to App Store",
+          "done": false
+        },
+        {
+          "id": "sub_dd_003",
+          "title": "Submit to Google Play",
+          "done": false
+        }
       ],
       "priority": "medium",
       "comments": [],
@@ -84,12 +185,31 @@
       "description": "Fitness app with Flutter/Dart.\n\n**Spec:** 245KB - massive potential!\n- Freemium model with premium subscription\n- Offline-first with cloud sync\n- AI features, gamification, social, GPS tracking",
       "status": "backlog",
       "project": "apps",
-      "tags": ["in-progress", "flutter"],
+      "tags": [
+        "in-progress",
+        "flutter"
+      ],
       "subtasks": [
-        { "id": "sub_ww_001", "title": "Add Supabase credentials", "done": false },
-        { "id": "sub_ww_002", "title": "Test sync functionality", "done": false },
-        { "id": "sub_ww_003", "title": "Build MVP features", "done": false },
-        { "id": "sub_ww_004", "title": "Beta testing", "done": false }
+        {
+          "id": "sub_ww_001",
+          "title": "Add Supabase credentials",
+          "done": false
+        },
+        {
+          "id": "sub_ww_002",
+          "title": "Test sync functionality",
+          "done": false
+        },
+        {
+          "id": "sub_ww_003",
+          "title": "Build MVP features",
+          "done": false
+        },
+        {
+          "id": "sub_ww_004",
+          "title": "Beta testing",
+          "done": false
+        }
       ],
       "priority": "high",
       "comments": [],
@@ -102,11 +222,26 @@
       "description": "Growing the YouTube channel with game dev content.\n\n**Completed:**\n- Greed's Folly Documentary (5:44) - ready for March 19 premiere\n- Majora's Mask Clocktower\n\n**Planned:**\n- Adventure Time game concept\n- Launch coverage videos",
       "status": "backlog",
       "project": "youtube",
-      "tags": ["content", "growth"],
+      "tags": [
+        "content",
+        "growth"
+      ],
       "subtasks": [
-        { "id": "sub_yt_001", "title": "Premiere documentary on March 19", "done": false },
-        { "id": "sub_yt_002", "title": "Create launch day content", "done": false },
-        { "id": "sub_yt_003", "title": "Plan Adventure Time video", "done": false }
+        {
+          "id": "sub_yt_001",
+          "title": "Premiere documentary on March 19",
+          "done": false
+        },
+        {
+          "id": "sub_yt_002",
+          "title": "Create launch day content",
+          "done": false
+        },
+        {
+          "id": "sub_yt_003",
+          "title": "Plan Adventure Time video",
+          "done": false
+        }
       ],
       "priority": "high",
       "comments": [],
@@ -119,12 +254,31 @@
       "description": "Full book outline (19 chapters, 5 parts).\n\nTeaching Sherlockian deduction, mnemonics, observation.\n\nCould be published on Amazon KDP.",
       "status": "backlog",
       "project": "books",
-      "tags": ["writing", "amazon-kdp"],
+      "tags": [
+        "writing",
+        "amazon-kdp"
+      ],
       "subtasks": [
-        { "id": "sub_bk_001", "title": "Complete remaining chapters", "done": false },
-        { "id": "sub_bk_002", "title": "Edit and polish manuscript", "done": false },
-        { "id": "sub_bk_003", "title": "Format for Amazon KDP", "done": false },
-        { "id": "sub_bk_004", "title": "Publish on Amazon", "done": false }
+        {
+          "id": "sub_bk_001",
+          "title": "Complete remaining chapters",
+          "done": false
+        },
+        {
+          "id": "sub_bk_002",
+          "title": "Edit and polish manuscript",
+          "done": false
+        },
+        {
+          "id": "sub_bk_003",
+          "title": "Format for Amazon KDP",
+          "done": false
+        },
+        {
+          "id": "sub_bk_004",
+          "title": "Publish on Amazon",
+          "done": false
+        }
       ],
       "priority": "low",
       "comments": [],
@@ -137,10 +291,21 @@
       "description": "Massive world-building project with 980 markdown files!\n\n- Lorebooks\n- Game mechanics\n- Story\n- Language system\n- Potions, spells, creatures\n\nCould become game IP or book series.",
       "status": "backlog",
       "project": "games",
-      "tags": ["worldbuilding", "future"],
+      "tags": [
+        "worldbuilding",
+        "future"
+      ],
       "subtasks": [
-        { "id": "sub_mw_001", "title": "Organize and catalog content", "done": false },
-        { "id": "sub_mw_002", "title": "Decide next direction (game vs book)", "done": false }
+        {
+          "id": "sub_mw_001",
+          "title": "Organize and catalog content",
+          "done": false
+        },
+        {
+          "id": "sub_mw_002",
+          "title": "Decide next direction (game vs book)",
+          "done": false
+        }
       ],
       "priority": "low",
       "comments": [],
@@ -153,10 +318,21 @@
       "description": "**Specs complete, ready to build:**\n- Chatty Chat (176KB spec)\n- Mnemonics Master (161KB spec)\n- Emergency Education (81KB spec)\n- Vitals Vault (43KB spec)\n- Amplified Arithmetic (55KB spec)",
       "status": "backlog",
       "project": "apps",
-      "tags": ["planned", "specs-ready"],
+      "tags": [
+        "planned",
+        "specs-ready"
+      ],
       "subtasks": [
-        { "id": "sub_pa_001", "title": "Prioritize which app to build next", "done": false },
-        { "id": "sub_pa_002", "title": "Start development on chosen app", "done": false }
+        {
+          "id": "sub_pa_001",
+          "title": "Prioritize which app to build next",
+          "done": false
+        },
+        {
+          "id": "sub_pa_002",
+          "title": "Start development on chosen app",
+          "done": false
+        }
       ],
       "priority": "low",
       "comments": [],
@@ -198,11 +374,19 @@
   ],
   "activities": [
     {
+      "type": "moved",
+      "actor": "DueCue",
+      "task": "🚀 Onboarding Guide — Set Up Mission Control",
+      "from": "permanent",
+      "to": "done",
+      "time": "just now"
+    },
+    {
       "type": "created",
       "actor": "Aurora",
       "task": "Added all projects to Mission Control",
       "time": "2026-03-17T15:15:00Z"
     }
   ],
-  "lastUpdated": "2026-03-17T15:15:00Z"
+  "lastUpdated": "2026-03-17T15:19:39.491Z"
 }
