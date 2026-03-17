@@ -4,7 +4,7 @@
       "id": "guide_onboarding",
       "title": "🚀 Onboarding Guide — Set Up Mission Control",
       "description": "Welcome to Mission Control! Follow these steps to complete your setup. Work through each subtask in order.\n\n**Tip:** Click on a subtask to see detailed instructions. Check it off when done.",
-      "status": "done",
+      "status": "permanent",
       "project": "guides",
       "tags": [
         "guide",
@@ -61,8 +61,7 @@
         }
       ],
       "createdAt": "2026-01-01T00:00:00Z",
-      "sortOrder": 0,
-      "completedAt": "2026-03-17T15:02:21.521Z"
+      "sortOrder": 0
     },
     {
       "id": "guide_user",
@@ -78,32 +77,32 @@
         {
           "id": "sub_001",
           "title": "— THE BOARD —",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_002",
           "title": "Columns: Permanent (recurring) → Backlog → In Progress → Review → Done",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_003",
           "title": "Drag & Drop: Move tasks between columns to change status",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_004",
           "title": "Click task card to open details and edit",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_005",
           "title": "— CREATING TASKS —",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_006",
           "title": "👤 You: Click '+' button in any column header",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_007",
@@ -113,42 +112,42 @@
         {
           "id": "sub_008",
           "title": "— TASK DETAILS —",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_009",
           "title": "Title: Short, clear name for the task",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_010",
           "title": "Description: Detailed instructions (Markdown supported)",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_011",
           "title": "Subtasks: Break work into smaller steps (checkable)",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_012",
           "title": "Comments: Add notes, feedback, or progress updates",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_013",
           "title": "Priority: High (🔴) / Medium (🟡) / Low (🟢)",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_014",
           "title": "Project: Organize tasks by project/category",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_015",
           "title": "— WORKFLOW WITH MOLTBOT —",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_016",
@@ -178,27 +177,27 @@
         {
           "id": "sub_021",
           "title": "— DASHBOARD FEATURES —",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_022",
           "title": "🔍 Search: Filter tasks by text",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_023",
           "title": "📁 Project filter: Click project buttons to filter",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_024",
           "title": "⚙️ Settings: Add/edit projects",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_025",
           "title": "📦 Archive: Store completed tasks out of sight",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_026",
@@ -213,7 +212,7 @@
         {
           "id": "sub_028",
           "title": "— MOLTBOT CAPABILITIES —",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_029",
@@ -250,37 +249,7 @@
         }
       ],
       "createdAt": "2026-01-01T00:00:01Z",
-      "sortOrder": 0
-    },
-    {
-      "id": "task_example",
-      "title": "Example Task — Delete me when ready!",
-      "description": "This is an example of what a real task looks like. Feel free to edit or delete it.\n\n**Good task descriptions include:**\n- What needs to be done\n- Why it matters\n- Any constraints or requirements\n- Links to relevant resources",
-      "status": "backlog",
-      "project": "default",
-      "tags": [
-        "example"
-      ],
-      "subtasks": [
-        {
-          "id": "sub_001",
-          "title": "First step of the task",
-          "done": false
-        },
-        {
-          "id": "sub_002",
-          "title": "Second step",
-          "done": false
-        },
-        {
-          "id": "sub_003",
-          "title": "Final step",
-          "done": false
-        }
-      ],
-      "priority": "low",
-      "comments": [],
-      "createdAt": "2026-01-01T00:00:02Z"
+      "sortOrder": 1
     }
   ],
   "projects": [
@@ -299,14 +268,6 @@
   ],
   "activities": [
     {
-      "type": "moved",
-      "actor": "DueCue",
-      "task": "🚀 Onboarding Guide — Set Up Mission Control",
-      "from": "permanent",
-      "to": "done",
-      "time": "just now"
-    },
-    {
       "type": "created",
       "actor": "Mission Control",
       "task": "Onboarding Guide",
@@ -317,7 +278,19 @@
       "actor": "Mission Control",
       "task": "User Guide",
       "time": "just now"
+    },
+    {
+      "type": "completed",
+      "actor": "Aurora",
+      "task": "Onboarding Guide",
+      "time": "2026-03-17T15:03:00Z"
+    },
+    {
+      "type": "deleted",
+      "actor": "Aurora",
+      "task": "Example Task",
+      "time": "2026-03-17T15:05:00Z"
     }
   ],
-  "lastUpdated": "2026-03-17T15:03:16.482Z"
+  "lastUpdated": "2026-03-17T15:05:00Z"
 }
