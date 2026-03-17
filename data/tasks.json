@@ -138,7 +138,7 @@
         {
           "id": "sub_013",
           "title": "Priority: High (🔴) / Medium (🟡) / Low (🟢)",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_014",
