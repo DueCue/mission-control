@@ -1,64 +1,6 @@
 {
   "tasks": [
     {
-      "id": "guide_onboarding",
-      "title": "🚀 Onboarding Guide — Set Up Mission Control",
-      "description": "Setup is complete!",
-      "status": "done",
-      "project": "guides",
-      "tags": [
-        "guide",
-        "setup"
-      ],
-      "subtasks": [
-        {
-          "id": "sub_001",
-          "title": "1. Enable GitHub Pages",
-          "done": true
-        },
-        {
-          "id": "sub_002",
-          "title": "2. Create GitHub Token",
-          "done": true
-        },
-        {
-          "id": "sub_003",
-          "title": "3. Connect Dashboard",
-          "done": true
-        },
-        {
-          "id": "sub_004",
-          "title": "4. Install Tailscale",
-          "done": true
-        },
-        {
-          "id": "sub_005",
-          "title": "5. Enable Funnel",
-          "done": true
-        },
-        {
-          "id": "sub_006",
-          "title": "6. Generate Webhook Token",
-          "done": true
-        },
-        {
-          "id": "sub_007",
-          "title": "7. Add GitHub Webhook",
-          "done": true
-        },
-        {
-          "id": "sub_008",
-          "title": "8. Test complete",
-          "done": true
-        }
-      ],
-      "priority": "high",
-      "comments": [],
-      "createdAt": "2026-01-01T00:00:00Z",
-      "sortOrder": 0,
-      "completedAt": "2026-03-17T15:19:39.491Z"
-    },
-    {
       "id": "task_greedsfolly_launch",
       "title": "🎮 Greed's Folly - Launch Day (March 19)",
       "description": "Game is COMPLETE and ready to launch!\n\n**Steam:** https://store.steampowered.com/app/4175750/Greeds_Folly/",
@@ -388,5 +330,5 @@
       "time": "2026-03-17T15:15:00Z"
     }
   ],
-  "lastUpdated": "2026-03-17T15:19:39.491Z"
+  "lastUpdated": "2026-03-17T15:19:46.750Z"
 }
