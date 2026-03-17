@@ -310,13 +310,14 @@
       "project": "games",
       "tags": ["launch", "priority"],
       "subtasks": [
-        { "id": "sub_gf_001", "title": "Send remaining press emails", "done": false },
-        { "id": "sub_gf_002", "title": "Send remaining streamer emails", "done": false },
-        { "id": "sub_gf_003", "title": "Upload press kit to Google Drive", "done": false },
-        { "id": "sub_gf_004", "title": "Take 8 screenshots for Steam", "done": false },
-        { "id": "sub_gf_005", "title": "Record vertical gameplay footage", "done": false },
-        { "id": "sub_gf_006", "title": "Edit short-form videos", "done": false },
-        { "id": "sub_gf_007", "title": "Launch day - monitor and engage", "done": false }
+        { "id": "sub_gf_001", "title": "Fix Patreon", "done": false },
+        { "id": "sub_gf_002", "title": "Send remaining press emails", "done": false },
+        { "id": "sub_gf_003", "title": "Send remaining streamer emails", "done": false },
+        { "id": "sub_gf_004", "title": "Upload press kit to Google Drive", "done": false },
+        { "id": "sub_gf_005", "title": "Take 8 screenshots for Steam", "done": false },
+        { "id": "sub_gf_006", "title": "Record vertical gameplay footage", "done": false },
+        { "id": "sub_gf_007", "title": "Edit short-form videos", "done": false },
+        { "id": "sub_gf_008", "title": "Launch day - monitor and engage", "done": false }
       ],
       "priority": "high",
       "comments": [],
