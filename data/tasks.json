@@ -1,63 +1,6 @@
 {
   "tasks": [
     {
-      "id": "guide_onboarding",
-      "title": "🚀 Onboarding Guide — Set Up Mission Control",
-      "description": "Setup is complete!",
-      "status": "permanent",
-      "project": "guides",
-      "tags": [
-        "guide",
-        "setup"
-      ],
-      "subtasks": [
-        {
-          "id": "sub_001",
-          "title": "1. Enable GitHub Pages",
-          "done": true
-        },
-        {
-          "id": "sub_002",
-          "title": "2. Create GitHub Token",
-          "done": true
-        },
-        {
-          "id": "sub_003",
-          "title": "3. Connect Dashboard",
-          "done": true
-        },
-        {
-          "id": "sub_004",
-          "title": "4. Install Tailscale",
-          "done": true
-        },
-        {
-          "id": "sub_005",
-          "title": "5. Enable Funnel",
-          "done": true
-        },
-        {
-          "id": "sub_006",
-          "title": "6. Generate Webhook Token",
-          "done": true
-        },
-        {
-          "id": "sub_007",
-          "title": "7. Add GitHub Webhook",
-          "done": true
-        },
-        {
-          "id": "sub_008",
-          "title": "8. Test complete",
-          "done": true
-        }
-      ],
-      "priority": "high",
-      "comments": [],
-      "createdAt": "2026-01-01T00:00:00Z",
-      "sortOrder": 0
-    },
-    {
       "id": "task_yt_greedsfolly_doc",
       "title": "📺 Greed's Folly Documentary (5:44)",
       "description": "Documentary-style video about solo game development.\n\n**Status:** COMPLETE ✅\n**Runtime:** 5:44\n**Premiere:** March 19, 2026 (Launch Day)",
@@ -557,5 +500,5 @@
       "time": "2026-03-17T15:20:00Z"
     }
   ],
-  "lastUpdated": "2026-03-17T15:25:53.891Z"
+  "lastUpdated": "2026-03-17T15:26:39.172Z"
 }
