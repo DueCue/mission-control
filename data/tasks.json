@@ -108,7 +108,7 @@
         {
           "id": "sub_007",
           "title": "🤖 MoltBot: Edits data/tasks.json or uses CLI",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_008",
