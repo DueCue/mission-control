@@ -4,7 +4,7 @@
       "id": "guide_onboarding",
       "title": "🚀 Onboarding Guide — Set Up Mission Control",
       "description": "Welcome to Mission Control! Follow these steps to complete your setup. Work through each subtask in order.\n\n**Tip:** Click on a subtask to see detailed instructions. Check it off when done.",
-      "status": "permanent",
+      "status": "done",
       "project": "guides",
       "tags": [
         "guide",
@@ -61,7 +61,8 @@
         }
       ],
       "createdAt": "2026-01-01T00:00:00Z",
-      "sortOrder": 0
+      "sortOrder": 0,
+      "completedAt": "2026-03-17T15:02:21.521Z"
     },
     {
       "id": "guide_user",
@@ -298,6 +299,14 @@
   ],
   "activities": [
     {
+      "type": "moved",
+      "actor": "DueCue",
+      "task": "🚀 Onboarding Guide — Set Up Mission Control",
+      "from": "permanent",
+      "to": "done",
+      "time": "just now"
+    },
+    {
       "type": "created",
       "actor": "Mission Control",
       "task": "Onboarding Guide",
@@ -310,5 +319,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-17T14:58:39.666Z"
+  "lastUpdated": "2026-03-17T15:02:21.521Z"
 }
