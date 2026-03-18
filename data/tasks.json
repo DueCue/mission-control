@@ -670,12 +670,12 @@
         {
           "id": "sub_1773768359723",
           "title": "Fix DueCue website",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_1773768373449",
           "title": "Fix Greeds Folly website",
-          "done": false
+          "done": true
         }
       ],
       "priority": "high",
