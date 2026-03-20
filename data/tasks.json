@@ -2,8 +2,8 @@
   "tasks": [
     {
       "id": "task_yt_greedsfolly_doc",
-      "title": "\ud83d\udcfa Greed's Folly Documentary (5:44)",
-      "description": "Documentary-style video about solo game development.\n\n**Status:** COMPLETE \u2705\n**Runtime:** 5:44\n**Premiere:** March 19, 2026 (Launch Day)",
+      "title": "📺 Greed's Folly Documentary (5:44)",
+      "description": "Documentary-style video about solo game development.\n\n**Status:** COMPLETE ✅\n**Runtime:** 5:44\n**Premiere:** March 19, 2026 (Launch Day)",
       "status": "done",
       "project": "youtube",
       "tags": [
@@ -50,8 +50,8 @@
     },
     {
       "id": "task_yt_majora_clocktower",
-      "title": "\ud83d\udcfa Majora's Mask Clocktower",
-      "description": "Video about the iconic Clocktower from Majora's Mask.\n\n**Status:** COMPLETE \u2705",
+      "title": "📺 Majora's Mask Clocktower",
+      "description": "Video about the iconic Clocktower from Majora's Mask.\n\n**Status:** COMPLETE ✅",
       "status": "done",
       "project": "youtube",
       "tags": [
@@ -87,7 +87,7 @@
     },
     {
       "id": "task_yt_nightmare_christmas",
-      "title": "\ud83d\udcfa Nightmare Before Christmas AS A GAME",
+      "title": "📺 Nightmare Before Christmas AS A GAME",
       "description": "Game concept: \"Holiday Heist: The Nightmare Before Everything\"\n\nJack Skellington steals holiday figures (Santa, Easter Bunny, Cupid, etc.)\n\n**Status:** Pre-Production",
       "status": "backlog",
       "project": "youtube",
@@ -134,7 +134,7 @@
     },
     {
       "id": "task_yt_adventure_time",
-      "title": "\ud83d\udcfa Adventure Time - Pancake Quest",
+      "title": "📺 Adventure Time - Pancake Quest",
       "description": "Game concept: \"Finn and Jake's Pancake Quest\"\n\nExplore the Tree Fort, collect ingredients, find treasures.\n\n**Status:** Asset Creation",
       "status": "backlog",
       "project": "youtube",
@@ -181,7 +181,7 @@
     },
     {
       "id": "task_yt_launch_coverage",
-      "title": "\ud83d\udcfa Launch Day Short-Form Content (Greeds Folly)",
+      "title": "📺 Launch Day Short-Form Content (Greeds Folly)",
       "description": "Short-form content for launch day.\n\nTikTok, YouTube Shorts, Instagram Reels.\n\n**Status:** Planned",
       "status": "done",
       "project": "guides",
@@ -224,7 +224,7 @@
     },
     {
       "id": "task_yt_postmortem",
-      "title": "\ud83d\udcfa Greed's Folly Postmortem",
+      "title": "📺 Greed's Folly Postmortem",
       "description": "Post-launch video analyzing what worked, what didn't.\n\nSales numbers, player feedback, lessons learned.\n\n**Status:** Planned (after launch)",
       "status": "backlog",
       "project": "youtube",
@@ -261,7 +261,7 @@
     },
     {
       "id": "task_yt_idea_toystory",
-      "title": "\ud83d\udcfa Toy Story - Buzz Finds Andy",
+      "title": "📺 Toy Story - Buzz Finds Andy",
       "description": "Video concept: Buzz searches for toys with \"Andy\" written on them.\n\nSet in Andy's room. Unlock abilities: Glide (wings), Laser (flashlight).\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -294,7 +294,7 @@
     },
     {
       "id": "task_yt_idea_simpsons",
-      "title": "\ud83d\udcfa The Simpsons Game Concept",
+      "title": "📺 The Simpsons Game Concept",
       "description": "Video concept: Game based on The Simpsons.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -326,7 +326,7 @@
     },
     {
       "id": "task_yt_idea_familyguy",
-      "title": "\ud83d\udcfa Family Guy Game Concept",
+      "title": "📺 Family Guy Game Concept",
       "description": "Video concept: Game based on Family Guy.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -358,7 +358,7 @@
     },
     {
       "id": "task_yt_idea_mario64",
-      "title": "\ud83d\udcfa Mario 64 Game Concept",
+      "title": "📺 Mario 64 Game Concept",
       "description": "Video concept: Reimagining Mario 64.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -391,7 +391,7 @@
     },
     {
       "id": "task_yt_idea_spongebob",
-      "title": "\ud83d\udcfa SpongeBob Game Concept",
+      "title": "📺 SpongeBob Game Concept",
       "description": "Video concept: Game based on SpongeBob.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -423,7 +423,7 @@
     },
     {
       "id": "task_yt_idea_spiderman",
-      "title": "\ud83d\udcfa Spider-Man Game Concept",
+      "title": "📺 Spider-Man Game Concept",
       "description": "Video concept: Game based on Spider-Man.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -456,7 +456,7 @@
     },
     {
       "id": "task_yt_idea_futurama",
-      "title": "\ud83d\udcfa Futurama Game Concept",
+      "title": "📺 Futurama Game Concept",
       "description": "Video concept: Game based on Futurama.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -488,7 +488,7 @@
     },
     {
       "id": "task_yt_idea_sonic",
-      "title": "\ud83d\udcfa Sonic Game Concept",
+      "title": "📺 Sonic Game Concept",
       "description": "Video concept: Game based on Sonic.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -521,7 +521,7 @@
     },
     {
       "id": "task_yt_idea_avatar",
-      "title": "\ud83d\udcfa Avatar Game Concept",
+      "title": "📺 Avatar Game Concept",
       "description": "Video concept: Game based on Avatar: The Last Airbender.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -553,7 +553,7 @@
     },
     {
       "id": "task_yt_idea_scoobydoo",
-      "title": "\ud83d\udcfa Scooby Doo as Horror Game",
+      "title": "📺 Scooby Doo as Horror Game",
       "description": "Video concept: Scooby Doo reimagined as a horror game.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -586,7 +586,7 @@
     },
     {
       "id": "task_yt_idea_zelda1_realistic",
-      "title": "\ud83d\udcfa Remaking Zelda 1 as Realistic 3D",
+      "title": "📺 Remaking Zelda 1 as Realistic 3D",
       "description": "Video concept: Take the original Legend of Zelda and reimagine it as a realistic 3D game.\n\n**Status:** Idea",
       "status": "backlog",
       "project": "youtube",
@@ -620,7 +620,7 @@
     },
     {
       "id": "task_greedsfolly_launch",
-      "title": "\ud83c\udfae Greed's Folly - Launch Day (March 19)",
+      "title": "🎮 Greed's Folly - Launch Day (March 19)",
       "description": "Game is COMPLETE and ready to launch!\n\n**Steam:** https://store.steampowered.com/app/4175750/Greeds_Folly/",
       "status": "done",
       "project": "guides",
@@ -688,7 +688,7 @@
     },
     {
       "id": "task_greedsfolly_dlc",
-      "title": "\ud83c\udfae Greed's Folly - DLC: Echoes of Greed",
+      "title": "🎮 Greed's Folly - DLC: Echoes of Greed",
       "description": "Planned DLC expansion for Greed's Folly.\n\nNot started yet - focus on launch first!",
       "status": "backlog",
       "project": "games",
@@ -725,8 +725,8 @@
     },
     {
       "id": "task_app_detaildetect",
-      "title": "\ud83d\udcf1 Detail Detective - Ready to Ship",
-      "description": "Deduction training app - COMPLETE \u2705\n\nReady to submit to app stores once Apple Developer enrollment is done.",
+      "title": "📱 Detail Detective - Ready to Ship",
+      "description": "Deduction training app - COMPLETE ✅\n\nReady to submit to app stores once Apple Developer enrollment is done.",
       "status": "backlog",
       "project": "apps",
       "tags": [
@@ -757,7 +757,7 @@
     },
     {
       "id": "task_app_workoutwaves",
-      "title": "\ud83d\udcf1 Workout Waves - Fitness App",
+      "title": "📱 Workout Waves - Fitness App",
       "description": "Fitness app with Flutter/Dart.\n\n**Spec:** 245KB - massive potential!\n- Freemium model with premium subscription\n- Offline-first with cloud sync\n- AI features, gamification, social, GPS tracking\n\n**Status:** In Development",
       "status": "backlog",
       "project": "apps",
@@ -799,7 +799,7 @@
     },
     {
       "id": "task_app_chattychat",
-      "title": "\ud83d\udcf1 Chatty Chat - Chat App",
+      "title": "📱 Chatty Chat - Chat App",
       "description": "Chat application.\n\n**Spec:** 176KB\n**Status:** Spec complete, ready to build",
       "status": "backlog",
       "project": "apps",
@@ -841,7 +841,7 @@
     },
     {
       "id": "task_app_mnemonicsmaster",
-      "title": "\ud83d\udcf1 Mnemonics Master - Memory Training",
+      "title": "📱 Mnemonics Master - Memory Training",
       "description": "Memory training app using mnemonics techniques.\n\n**Spec:** 161KB\n**Status:** Spec complete, ready to build",
       "status": "backlog",
       "project": "apps",
@@ -883,7 +883,7 @@
     },
     {
       "id": "task_app_emergencyeducation",
-      "title": "\ud83d\udcf1 Emergency Education - Medical Training",
+      "title": "📱 Emergency Education - Medical Training",
       "description": "Medical training app for emergency situations.\n\n**Spec:** 81KB\n**Status:** Spec complete, ready to build",
       "status": "backlog",
       "project": "apps",
@@ -926,7 +926,7 @@
     },
     {
       "id": "task_app_vitalsvault",
-      "title": "\ud83d\udcf1 Vitals Vault - Health Tracker",
+      "title": "📱 Vitals Vault - Health Tracker",
       "description": "Health tracking app for vital signs.\n\n**Spec:** 43KB\n**Status:** Spec complete, ready to build",
       "status": "backlog",
       "project": "apps",
@@ -969,7 +969,7 @@
     },
     {
       "id": "task_app_amplifiedarithmetic",
-      "title": "\ud83d\udcf1 Amplified Arithmetic - Math Trainer",
+      "title": "📱 Amplified Arithmetic - Math Trainer",
       "description": "Math training app for mental arithmetic.\n\n**Spec:** 55KB\n**Status:** Spec complete, ready to build",
       "status": "backlog",
       "project": "apps",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "task_deduction_book",
-      "title": "\ud83d\udcda A Study in Deduction - Book",
+      "title": "📚 A Study in Deduction - Book",
       "description": "Full book outline (19 chapters, 5 parts).\n\nTeaching Sherlockian deduction, mnemonics, observation.\n\nCould be published on Amazon KDP.",
       "status": "backlog",
       "project": "books",
@@ -1048,7 +1048,7 @@
     },
     {
       "id": "task_magicalworld",
-      "title": "\ud83c\udf0d Magical World - Worldbuilding Project",
+      "title": "🌍 Magical World - Worldbuilding Project",
       "description": "Massive world-building project with 980 markdown files!\n\n- Lorebooks\n- Game mechanics\n- Story\n- Language system\n- Potions, spells, creatures\n\nCould become game IP or book series.",
       "status": "backlog",
       "project": "games",
@@ -1075,7 +1075,7 @@
     },
     {
       "id": "task_web_spicychat",
-      "title": "\ud83c\udf10 Spicy Chat - Web Roleplay App",
+      "title": "🌐 Spicy Chat - Web Roleplay App",
       "description": "AI roleplay web app for spicy/adult content.\n\n**Based on:** Chatty Chat spec (5274 lines)\n**Platform:** Web (accessible via Tailscale)\n\n**13 Phases:**\n1. Foundation (stack, DB, Docker)\n2. Core UI (messenger, characters)\n3. AI Integration (LLM, images, TTS, video)\n4. Branching & Editing\n5. Personas\n6. Group Chats\n7. Media & Gallery\n8. Unprompted Messages\n9. Story Mode\n10. Visual Novel Mode\n11. RPG System\n12. Haptics/Lovense\n13. Polish & Deployment\n\n**Deployment:**\n- Self-hosted on NAS\n- Access via Tailscale (private network)\n\n**69 Subtasks Total**",
       "status": "in_progress",
       "project": "web",
@@ -1328,7 +1328,7 @@
         },
         {
           "id": "sub_sc_049",
-          "title": "[Phase 10] Integrate messaging into visual novel (choices \u2192 chat)",
+          "title": "[Phase 10] Integrate messaging into visual novel (choices → chat)",
           "done": false
         },
         {
@@ -1435,7 +1435,10 @@
       "priority": "medium",
       "comments": [],
       "createdAt": "2026-03-20T14:26:27.986404Z",
-      "sortOrder": 0
+      "sortOrder": 0,
+      "archived": true,
+      "archivedAt": "2026-03-20T13:41:10.964Z",
+      "archivedReason": "Converted to cron: acebbd8e-6996-4bb8-9e91-47894b51bd76"
     }
   ],
   "projects": [
@@ -1443,44 +1446,44 @@
       "id": "guides",
       "name": "Guides",
       "color": "#10b981",
-      "icon": "\ud83d\udcda"
+      "icon": "📚"
     },
     {
       "id": "games",
       "name": "Games",
       "color": "#8b5cf6",
-      "icon": "\ud83c\udfae"
+      "icon": "🎮"
     },
     {
       "id": "apps",
       "name": "Apps",
       "color": "#3b82f6",
-      "icon": "\ud83d\udcf1"
+      "icon": "📱"
     },
     {
       "id": "youtube",
       "name": "YouTube",
       "color": "#ef4444",
-      "icon": "\ud83d\udcfa"
+      "icon": "📺"
     },
     {
       "id": "books",
       "name": "Books",
       "color": "#f59e0b",
-      "icon": "\ud83d\udcda"
+      "icon": "📚"
     },
     {
       "id": "web",
       "name": "Web",
       "color": "#ec4899",
-      "icon": "\ud83c\udf10"
+      "icon": "🌐"
     }
   ],
   "activities": [
     {
       "type": "moved",
       "actor": "DueCue",
-      "task": "\ud83c\udf10 Spicy Chat - Web Roleplay App",
+      "task": "🌐 Spicy Chat - Web Roleplay App",
       "from": "backlog",
       "to": "in_progress",
       "time": "just now"
@@ -1488,7 +1491,7 @@
     {
       "type": "moved",
       "actor": "DueCue",
-      "task": "\ud83c\udfae Greed's Folly - Launch Day (March 19)",
+      "task": "🎮 Greed's Folly - Launch Day (March 19)",
       "from": "in_progress",
       "to": "done",
       "time": "just now"
@@ -1496,7 +1499,7 @@
     {
       "type": "moved",
       "actor": "DueCue",
-      "task": "\ud83d\udcfa Greed's Folly Documentary (5:44)",
+      "task": "📺 Greed's Folly Documentary (5:44)",
       "from": "review",
       "to": "done",
       "time": "just now"
@@ -1504,7 +1507,7 @@
     {
       "type": "moved",
       "actor": "DueCue",
-      "task": "\ud83d\udcfa Launch Day Short-Form Content (Greeds Folly)",
+      "task": "📺 Launch Day Short-Form Content (Greeds Folly)",
       "from": "in_progress",
       "to": "done",
       "time": "just now"
@@ -1512,7 +1515,7 @@
     {
       "type": "moved",
       "actor": "DueCue",
-      "task": "\ud83d\udcfa Launch Day Short-Form Content (Greeds Folly)",
+      "task": "📺 Launch Day Short-Form Content (Greeds Folly)",
       "from": "backlog",
       "to": "in_progress",
       "time": "just now"
