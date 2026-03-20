@@ -82,7 +82,7 @@
       "priority": "medium",
       "comments": [],
       "createdAt": "2026-03-17T15:20:00Z",
-      "sortOrder": 2
+      "sortOrder": 0
     },
     {
       "id": "task_yt_nightmare_christmas",
@@ -182,7 +182,7 @@
       "id": "task_yt_launch_coverage",
       "title": "📺 Launch Day Short-Form Content (Greeds Folly)",
       "description": "Short-form content for launch day.\n\nTikTok, YouTube Shorts, Instagram Reels.\n\n**Status:** Planned",
-      "status": "in_progress",
+      "status": "done",
       "project": "guides",
       "tags": [
         "short-form",
@@ -218,7 +218,8 @@
       "priority": "high",
       "comments": [],
       "createdAt": "2026-03-17T15:20:00Z",
-      "sortOrder": 1
+      "sortOrder": 0,
+      "completedAt": "2026-03-20T12:55:51.514Z"
     },
     {
       "id": "task_yt_postmortem",
@@ -1108,6 +1109,14 @@
       "type": "moved",
       "actor": "DueCue",
       "task": "📺 Launch Day Short-Form Content (Greeds Folly)",
+      "from": "in_progress",
+      "to": "done",
+      "time": "just now"
+    },
+    {
+      "type": "moved",
+      "actor": "DueCue",
+      "task": "📺 Launch Day Short-Form Content (Greeds Folly)",
       "from": "backlog",
       "to": "in_progress",
       "time": "just now"
@@ -1119,5 +1128,5 @@
       "time": "2026-03-17T16:48:00Z"
     }
   ],
-  "lastUpdated": "2026-03-17T17:35:45.550Z"
+  "lastUpdated": "2026-03-20T12:55:51.514Z"
 }
