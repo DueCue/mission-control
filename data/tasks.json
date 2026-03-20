@@ -2,7 +2,7 @@
   "tasks": [
     {
       "id": "task_yt_greedsfolly_doc",
-      "title": "📺 Greed's Folly Documentary (5:44)",
+      "title": "📺 Greed's Folly Documentary",
       "description": "Documentary-style video about solo game development.\n\n**Status:** COMPLETE ✅\n**Runtime:** 5:44\n**Premiere:** March 19, 2026 (Launch Day)",
       "status": "done",
       "project": "youtube",
@@ -220,7 +220,9 @@
       "comments": [],
       "createdAt": "2026-03-17T15:20:00Z",
       "sortOrder": 1,
-      "completedAt": "2026-03-20T12:55:51.514Z"
+      "completedAt": "2026-03-20T12:55:51.514Z",
+      "archived": true,
+      "archivedAt": "2026-03-20T15:09:25.344Z"
     },
     {
       "id": "task_yt_postmortem",
@@ -684,7 +686,9 @@
       "comments": [],
       "createdAt": "2026-03-17T15:15:00Z",
       "sortOrder": 0,
-      "completedAt": "2026-03-20T12:56:11.389Z"
+      "completedAt": "2026-03-20T12:56:11.389Z",
+      "archived": true,
+      "archivedAt": "2026-03-20T15:09:20.918Z"
     },
     {
       "id": "task_greedsfolly_dlc",
@@ -1481,6 +1485,18 @@
   ],
   "activities": [
     {
+      "type": "archive",
+      "actor": "DueCue",
+      "task": "📺 Launch Day Short-Form Content (Greeds Folly)",
+      "time": "just now"
+    },
+    {
+      "type": "archive",
+      "actor": "DueCue",
+      "task": "🎮 Greed's Folly - Launch Day (March 19)",
+      "time": "just now"
+    },
+    {
       "type": "moved",
       "actor": "DueCue",
       "task": "🌐 Spicy Chat - Web Roleplay App",
@@ -1539,5 +1555,5 @@
       "time": "2026-03-20T14:33:30.975945Z"
     }
   ],
-  "lastUpdated": "2026-03-20T13:41:23.147Z"
+  "lastUpdated": "2026-03-20T15:09:32.274Z"
 }
