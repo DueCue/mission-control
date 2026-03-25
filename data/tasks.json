@@ -1449,7 +1449,7 @@
       "title": "🎬 Resolve MCP — DaVinci Resolve AI Integration",
       "description": "MCP server that connects DaVinci Resolve to AI assistants via Model Context Protocol.\n\n**Tech:** Python + MCP library + DaVinci Resolve Scripting API\n\n**Location:** `/home/victor/.openclaw/workspace/projects/resolve-mcp/`\n\n**What it does:**\n- AI can analyze timelines, list clips, make cuts\n- Add subtitles automatically\n- Detect silent portions in audio\n- Export audio for AI analysis\n- Chat with AI directly inside DaVinci Resolve\n\n**Components:**\n1. MCP Server (`server/resolve_mcp.py`) — exposes Resolve API as tools\n2. Chat Panel (`panel/`) — UI inside Resolve\n\n**Tools available:**\n- `resolve_get_timeline` — Get timeline info\n- `resolve_get_clips` — List all clips\n- `resolve_cut_clip` — Make cuts\n- `resolve_add_subtitles` — Add subtitle tracks\n- `resolve_detect_silences` — Find silent portions\n- `resolve_export_audio` — Export audio for analysis\n- `resolve_get_project_info` — Project metadata\n\n**Requirements:**\n- DaVinci Resolve Studio (or free version with limited scripting)\n- Python 3.8+\n- `pip install -r requirements.txt`\n\n**Status:** Skeleton built — needs testing and expansion",
       "status": "backlog",
-      "project": "games",
+      "project": "apps",
       "tags": [
         "mcp",
         "video",
@@ -1631,5 +1631,5 @@
       "time": "2026-03-20T14:33:30.975945Z"
     }
   ],
-  "lastUpdated": "2026-03-20T15:09:32.274Z"
+  "lastUpdated": "2026-03-25T07:32:15.515Z"
 }
